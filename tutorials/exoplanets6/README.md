@@ -19,8 +19,12 @@ Open and run:
 ```
 1-download-some-data.ipynb
 ```
+i.e., by doing
 
-Note to run this, you will need to create [a Kaggle account](https://www.kaggle.com/). This downloads the JWST datasets (~40 GB).
+```
+jupyter notebook 1-download-some-data.ipynb
+```
+in a terminal. Note to run this, you will need to create [a Kaggle account](https://www.kaggle.com/). This downloads the JWST datasets (~40 GB).
 
 ## 💻 Short on storage or bandwidth?
 
