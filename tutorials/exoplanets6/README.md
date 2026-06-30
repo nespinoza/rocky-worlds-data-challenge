@@ -20,7 +20,7 @@ Open and run:
 1-download-some-data.ipynb
 ```
 
-This downloads the JWST datasets (~40 GB).
+Note to run this, you will need to create [a Kaggle account](https://www.kaggle.com/). This downloads the JWST datasets (~40 GB).
 
 ## 💻 Short on storage or bandwidth?
 
