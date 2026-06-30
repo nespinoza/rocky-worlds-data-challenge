@@ -3,12 +3,17 @@ Welcome! In this activity you'll fit JWST secondary eclipses and prepare a submi
 
 ## 🛠️ 1. Create the environment
 
-First, be sure to clone this repository in your local computer. You can either download the code directly, or you can do, in a terminal:
+First, be sure to clone this repository in your local computer. You can either download the code directly, or you can do, in a terminal, if you have `git`:
 
 ```bash
+git clone https://github.com/nespinoza/rocky-worlds-data-challenge.git
+cd rocky-worlds-data-challenge/tutorials/exoplanets6
+```
 
-git clone https://github.com/nespinoza/rocky-worlds-data-challenge
-cd tutorials/exoplanets6
+Alternatively, you can also use `curl`:
+```bash
+curl -L https://github.com/nespinoza/rocky-worlds-data-challenge/archive/refs/heads/main.zip -o rocky-worlds.zip
+unzip rocky-worlds.zip
 ```
 
 Then, from a terminal, run:
