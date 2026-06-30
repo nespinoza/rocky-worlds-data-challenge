@@ -3,7 +3,15 @@ Welcome! In this activity you'll fit JWST secondary eclipses and prepare a submi
 
 ## 🛠️ 1. Create the environment
 
-From a terminal, run:
+First, be sure to clone this repository in your local computer. You can either download the code directly, or you can do, in a terminal:
+
+```bash
+
+git clone https://github.com/nespinoza/rocky-worlds-data-challenge
+cd tutorials/exoplanets6
+```
+
+Then, from a terminal, run:
 
 ```bash
 conda env create -f environment.yml
