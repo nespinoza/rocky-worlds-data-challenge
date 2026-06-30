@@ -1,5 +1,4 @@
-# 🌍 Rocky Worlds Data Challenge — Exoplanets 6 Hands-on
-
+# 🌍 Rocky Worlds Data Challenge — Exoplanets 6 Hands-on Special Session 
 Welcome! In this activity you'll fit JWST secondary eclipses and prepare a submission for the Rocky Worlds Data Challenge.
 
 ## 🛠️ 1. Create the environment
