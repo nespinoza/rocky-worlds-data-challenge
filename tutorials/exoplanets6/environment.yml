@@ -1,0 +1,25 @@
+name: rw-exo6
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - pip
+  - ipykernel
+  - notebook
+  - jupyterlab
+  - ipywidgets
+  - ipyvuetify
+
+  - pip:
+      - "numpy<2"
+      - scipy
+      - matplotlib
+      - pandas
+      - astropy
+      - emcee
+      - corner
+      - batman-package
+      - jwst
+      - rocky_worlds_data_challenge
