@@ -23,4 +23,6 @@ dependencies:
       - batman-package
       - jwst
       - rocky_worlds_data_challenge
+      - kagglehub
+      - kagglesdk==0.1.30
       - kaggle
