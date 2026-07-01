@@ -23,7 +23,7 @@ conda env create -f environment.yml
 conda activate rw-exo6
 ```
 
-This may take a few minutes the first time.
+This may take a few minutes the first time. Note this needs for you to have `conda` installed in your computer. Follow [these instructions](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) to install `conda` if its not already in your computer.
 
 ## 📥 2. Download the data
 
